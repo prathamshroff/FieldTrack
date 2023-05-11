@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="visit_form_fields">
+        <item>Branch Name</item>
+        <item>User Name</item>
+        <item>Current Date &amp; Time</item>
+        <item>Check-in Time</item>
+        <item>Check-out Time</item>
+        <item>Company Name</item>
+        <item>Contact Person Name</item>
+        <item>Initial Purpose</item>
+        <item>Amount</item>
+        <item>Brief Meeting Notes</item>
+    </string-array>
+</resources>
